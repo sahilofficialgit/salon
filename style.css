@@ -230,6 +230,11 @@ h2 {
     align-items: center;
 }
 
+.about-image img {
+    height: 100vh;
+    width: 100%;
+}
+
 .about-text h2 { color: var(--accent-gold); }
 .about-text p { color: var(--text-grey); margin-bottom: 20px; }
 .features-list li { margin-bottom: 10px; color: var(--text-white); }
